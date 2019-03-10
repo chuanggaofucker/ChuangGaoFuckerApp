@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChuangGaoFu*ker</string>
+    <string name="action_settings">No Settings</string>
+    <string name="action_clear_credential">Clear Credential</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">StudentID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_title">Login Into System</string>
+    <string name="touch_run_button_to_do_everything_u_want_with">Touch \'Run\' button to do everything u want with \'创高体育\'.</string>
+    <string name="everything_is_done">Everything is DONE! You can exit now.</string>
+    <string name="student_id_is_required">Student id is required!</string>
+    <string name="password_is_required">Password is required!</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="no_settings_msg">No Settings. Go away!</string>
+    <string name="no_settings_title">No Settings</string>
+    <string name="i_will_go_away">I WILL GO AWAY</string>
+</resources>
