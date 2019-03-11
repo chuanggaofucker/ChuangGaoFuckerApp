@@ -18,7 +18,6 @@ import okhttp3.ResponseBody;
 
 import org.mozilla.javascript.Context;
 import org.mozilla.javascript.Function;
-import org.mozilla.javascript.RhinoException;
 import org.mozilla.javascript.Scriptable;
 
 import static net.crigh.api.encrypt.ChingoEncrypt.cgapiEnrypt;

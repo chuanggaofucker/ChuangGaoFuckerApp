@@ -1,28 +1,22 @@
 <resources>
     <string name="app_name">ChuangGaoFu*ker</string>
-    <string name="action_settings">No Settings</string>
-    <string name="action_clear_credential">Clear Credential</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="action_settings">没有设置</string>
+    <string name="action_clear_credential">清除登录凭据</string>
+    <string name="title_activity_login">登录</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">StudentID</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Login</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
-    </string>
-    <string name="login_title">Login Into System</string>
-    <string name="touch_run_button_to_do_everything_u_want_with">Touch \'Run\' button to do everything u want with \'创高体育\'.</string>
-    <string name="everything_is_done">Everything is DONE! You can exit now.</string>
-    <string name="student_id_is_required">Student id is required!</string>
-    <string name="password_is_required">Password is required!</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="no_settings_msg">No Settings. Go away!</string>
-    <string name="no_settings_title">No Settings</string>
-    <string name="i_will_go_away">I WILL GO AWAY</string>
+    <string name="prompt_email">学号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_field_required">该表单域不可为空</string>
+    <string name="login_title">登录到创高系统</string>
+    <string name="touch_run_button_to_do_everything_u_want_with">请轻触右下角的按钮来随意 F*ck 创高体育！</string>
+    <string name="everything_is_done">打卡成功，你现在可以退出应用了！</string>
+    <string name="student_id_is_required">学号必填！</string>
+    <string name="password_is_required">密码必填！</string>
+    <string name="please_wait">请等候…</string>
+    <string name="no_settings_title">没有设置(°ﾛ°٥)</string>
+    <string name="no_settings_msg">没有设置，快滚！</string>
+    <string name="i_will_go_away">我滚我滚</string>
 </resources>

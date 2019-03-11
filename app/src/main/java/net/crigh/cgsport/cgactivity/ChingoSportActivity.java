@@ -46,8 +46,8 @@ public class ChingoSportActivity extends AppCompatActivity {
         AlertDialog dialog = new AlertDialog.Builder(this)
                 .setView(loginView)
                 .setTitle(R.string.login_title)
-                .setPositiveButton("LOG IN", null)
-                .setNegativeButton("CANCEL", null)
+                .setPositiveButton("登录", null)
+                .setNegativeButton("取消", null)
                 .create();
 
         dialog.setCanceledOnTouchOutside(false);
@@ -155,10 +155,10 @@ public class ChingoSportActivity extends AppCompatActivity {
         } else {
             SharedPreferences pref = this.getSharedPreferences("cgsport", Context.MODE_PRIVATE);
             AlertDialog dialog = new AlertDialog.Builder(this)
-                    .setTitle("Clear Credential")
-                    .setMessage("Are u sure to clear credential?")
-                    .setPositiveButton("OK", (dialog1, id1) -> pref.edit().remove("key").apply())
-                    .setNegativeButton("Cancel", null)
+                    .setTitle("清除登陆凭据")
+                    .setMessage("你确定要清除登录凭据吗？")
+                    .setPositiveButton("确定", (dialog1, id1) -> pref.edit().remove("key").apply())
+                    .setNegativeButton("取消", null)
                     .create();
             dialog.show();
         }
