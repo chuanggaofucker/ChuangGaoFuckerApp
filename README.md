@@ -17,7 +17,7 @@
 
 **必须卸载“创高体育”才可以安装本应用**
 
-为了确保安全，请务必认准[我们的 Telegram 账号：chuanggao_bot](https://t.me/chuanggao_bot)
+为了确保安全，请自己编译该APK。使用 Android Studio 即可编译。
 
 没有其他注意事项。
 
